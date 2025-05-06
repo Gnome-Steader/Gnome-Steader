@@ -28,7 +28,7 @@ I'm a developer and reverse engineer with a passion for web development and game
 ## 😄 Pronouns
 - he/him/his
 
-> **Note:** My experiments in bypassing, cheat creation, glitching, and hacking repositorys are not to be used at your own risk and I am not responsable for any thing that happens
+> **Note:** My experiments in bypassing, cheat creation, glitching, and hacking repositorys are to be used at your own risk and I am not responsable for any thing that happens
 
 
 
