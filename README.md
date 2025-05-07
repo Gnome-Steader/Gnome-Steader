@@ -35,7 +35,7 @@ I'm a developer and reverse engineer with a passion for web development and game
 - **Email:** [bfroymovich@thehealdsburgschool.org](mailto:bfroymovich@thehealdsburgschool.org)
 
 ## 😄 Pronouns
-- he/him/his
+- he/him/his/himself/
 
 ## ⚠️ Disclaimer
 > **Note:** My experiments in bypassing, cheat creation, glitching, and hacking repositories are to be used at your own risk. I am not responsible for any consequences resulting from their use. Please ensure compliance with all relevant ethical and legal standards.
